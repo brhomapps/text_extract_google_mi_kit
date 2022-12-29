@@ -1,12 +1,13 @@
 # text_extract_google_mi_kit
 This flutter app use google_ml_kit package for Text Recognition API can extract text from any images
 
-(google_ml_kit: ^0.13.0) [https://pub.dev/packages/google_ml_kit]
+google_ml_kit: ^0.13.0 [https://pub.dev/packages/google_ml_kit]
 
 hi friend, Please subscribe in my youtube channel,and  help me as I helped you by putting a good comment and
 liking for the video 😍👍
 
-# Tutorial Video: [https://youtu.be/W1IOOfA1o6s]
+# Tutorial Video:
+[https://youtu.be/W1IOOfA1o6s]
 
 
  Our channel:
